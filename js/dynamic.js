@@ -99,7 +99,7 @@ function getBarbersInState(state) {
                         </div>
                     </div>
                     <div class="product-img">
-                        <a href="#"><img src="{barber.display_img_url}" alt="#"></a>
+                        <a href="#"><img src="${barber.display_img_url}" alt="#"></a>
                         <div class="product-hover-action">
                             <ul>
                                 <li>
@@ -165,7 +165,7 @@ function getBarbersInCity() {
                         </div>
                     </div>
                     <div class="product-img">
-                        <a href="#"><img src="{barber.display_img_url}" alt="#"></a>
+                        <a href="#"><img src="${barber.display_img_url}" alt="#"></a>
                         <div class="product-hover-action">
                             <ul>
                                 <li>
